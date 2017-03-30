@@ -1,2 +1,2 @@
 # AppImages
-![image](https://github.com/wlcaption/AppImages/find/master)
+![image](https://github.com/wlcaption/AppImages/blob/master/screenshots/meizi.jpg)
